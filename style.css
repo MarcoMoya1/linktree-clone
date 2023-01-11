@@ -1,7 +1,11 @@
 body{
     margin: 0;
     padding: 0;
-    background-color:rgb(108, 21, 21);
+    background: linear-gradient( to right,
+     rgb(72, 72, 226) 0%,
+     rgb(72, 72, 226) 75%,
+     rgb(127, 32, 32) 75%,
+     rgb(220, 68, 68) 100%);
     color: blanchedalmond;
     display:flex;
     align-items:center;
@@ -10,22 +14,16 @@ body{
     font-family: Verdana, Tahoma, Sans-serif;
 
 }
-/* 
- .img{
-    width: 500px;
-    height:500px;
-}  */
-
-
 
 .image-container {
     border-radius: 48px;
     overflow: hidden;
-}
+} 
+
  .image-container img {
     height: 96px;
     width: 96px;
-}
+} 
 
 
 header{
@@ -44,7 +42,7 @@ header{
     background-color: rgb(240,240,240);
 }
 
-.share-button{
+.share-button svg{
     margin-left: 12px;
     margin-top: 10px;
     color: rgb(0,0,0)
