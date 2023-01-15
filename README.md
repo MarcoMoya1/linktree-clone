@@ -5,3 +5,5 @@ The page also consists of share buttons that will allow for sharing links
 I got the idea for this repo from https://github.com/kubowania
 ![2023-01-10 (1)](https://user-images.githubusercontent.com/98365526/211705002-967b6050-1677-4bf1-aa2a-eae7cb51ffb8.png)
 
+Deployed link https://marcomoya1.github.io/linktree-clone/
+
